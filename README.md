@@ -6,9 +6,9 @@ Building a simple photo gallery to be used for my future projects (switches upon
 
 ## Live demo
 Have a taste of the result:
-https://raw.githack.com/shloch/Twitter-Character-Count/main/index.html
+https://raw.githack.com/shloch/simplePhotoGallery/main/index.html
 
-![alt text](https://github.com/shloch/Twitter-Character-Count/blob/main/tweeter.gif)
+![alt text](https://github.com/shloch/simplePhotoGallery/blob/main/gallery.gif)
 
 ## Acknowledgements
 - https://scrimba.com/scrim/co2894baa8b34cade34b93291
