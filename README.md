@@ -1,10 +1,6 @@
 # simplePhotoGallery
-# Twitter-Character-Count
 
-Making a Social Media Character Counter!  to display the available characters LEFT.
-If number of characters is >= 140 characters, we can tweet (Twitter button active). Above this number, the Twitter button is disabled.
-
-I used Keydown, addEventListeners, add and remove a class
+Building a simple photo gallery to be used for my future projects (switches upon click)
 
 
 
